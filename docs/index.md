@@ -14,5 +14,5 @@ The server only understands the following characters <code class="language-plain
 
 <details>
 <summary>Hint 3:</summary>
-The <code class="language-plaintext highlighter-rouge">.match</code> method only works on strings. Maybe you send a proper string 🤔.
+The <code class="language-plaintext highlighter-rouge">.match</code> method only works on strings. Maybe send a proper string 🤔.
 </details>
