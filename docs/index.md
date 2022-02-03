@@ -9,10 +9,5 @@ you'll need <code class="language-plaintext highlighter-rouge">nc</code> or <cod
 
 <details>
 <summary>Hint 2:</summary>
-The server only understands the following characters <code class="language-plaintext highlighter-rouge">01234567890<>(){}|+-= '"</code>
-</details>
-
-<details>
-<summary>Hint 3:</summary>
-The <code class="language-plaintext highlighter-rouge">.match</code> method only works on strings. Maybe send a proper string 🤔.
+The server only understands the following characters <code class="language-plaintext highlighter-rouge">01234567890 </code>
 </details>
