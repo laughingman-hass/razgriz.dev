@@ -9,5 +9,5 @@ you'll need <code class="language-plaintext highlighter-rouge">nc</code> or <cod
 
 <details>
 <summary>Hint 2:</summary>
-The server only understands the following characters <code class="language-plaintext highlighter-rouge">01234567890 </code>
+The server only understands digits and space <code class="language-plaintext highlighter-rouge">/\A[\d\s]+$/</code>
 </details>
